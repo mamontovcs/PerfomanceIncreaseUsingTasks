@@ -1,0 +1,10 @@
+C:\Users\Vitalik\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.exe.config
+C:\Users\Vitalik\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.exe
+C:\Users\Vitalik\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\ConsoleApp36.pdb
+C:\Users\Vitalik\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.csprojAssemblyReference.cache
+C:\Users\Vitalik\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.exe
+C:\Users\Vitalik\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.pdb
+C:\Users\Vitalik\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vitalik\source\repos\ConsoleApp36\ConsoleApp36\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vitalik\source\repos\ConsoleApp36\ConsoleApp36\obj\Debug\ConsoleApp36.csproj.CopyComplete
